@@ -1,0 +1,6 @@
+@CWG.SecureCoding.WebAPIv9_HostAddress = http://localhost:5247
+
+GET {{CWG.SecureCoding.WebAPIv9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
